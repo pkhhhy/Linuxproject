@@ -17,9 +17,9 @@ The main file is scan.sh，Running the file will automatically scan the given pa
 
 ## Parameter ##
 
--h              Get help
--r+[path]    Scan all subdirectories recursively!
--n+[path]   Scan current directory!
++ -h              Get help <br>
++ -r+[path]    Scan all subdirectories recursively! <br>
++ -n+[path]   Scan current directory!
 
 ## Precautions ##
 
